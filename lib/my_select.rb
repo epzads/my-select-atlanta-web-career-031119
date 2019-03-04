@@ -6,7 +6,7 @@ new_array = []
 
 collections.select do |x|
   if x.even?
-
+  yield x 
 
 #while i < collections.length 
 
