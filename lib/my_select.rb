@@ -2,6 +2,9 @@ def my_select(collections)
 # def my_select(collections)
 
 #i = 0
+new_array = []
+
+collections.select do |x|
 
 
 
