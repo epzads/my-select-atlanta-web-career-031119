@@ -1,16 +1,16 @@
 def my_select(collections)
 # def my_select(collections)
 
-i = 0
+#i = 0
 
 
 
-while i < collections.length 
+#while i < collections.length 
 
-yield collections[i] 
+#yield collections[i] 
 
-  i = i + 1
+ # i = i + 1
 end 
 end 
-
+end
 #
