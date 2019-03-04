@@ -5,7 +5,7 @@ def my_select(collections)
 new_array = []
 
 collections.select do |x|
-
+  if x.even?
 
 
 #while i < collections.length 
