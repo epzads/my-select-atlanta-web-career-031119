@@ -1,4 +1,4 @@
-def my_select(collection)
+def my_select(collections)
 # def my_select(collections)
 
 i = 0
